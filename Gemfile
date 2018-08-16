@@ -40,3 +40,5 @@ gem 'listen'
 
 gem 'jruby-jars', '= 9.1.13.0'
 gem 'warbler'
+
+gem 'thrift'
