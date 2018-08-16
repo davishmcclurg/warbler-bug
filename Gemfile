@@ -39,6 +39,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'listen'
 
 gem 'jruby-jars', '= 9.1.17.0'
-gem 'warbler'
+gem 'warbler', :git => 'git@github.com:davishmcclurg/warbler.git', :ref => '32cfe8c14ba3e38043c30a39152249923e1580b9'
 
 gem 'thrift'
