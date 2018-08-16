@@ -38,7 +38,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'listen'
 
-gem 'jruby-jars', '= 9.1.13.0'
+gem 'jruby-jars', '= 9.1.17.0'
 gem 'warbler'
 
 gem 'thrift'
