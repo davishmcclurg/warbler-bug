@@ -37,3 +37,6 @@ gem 'jbuilder', '~> 2.5'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'listen'
+
+gem 'jruby-jars', '= 9.1.13.0'
+gem 'warbler'
